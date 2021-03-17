@@ -1,16 +1,16 @@
 export const InfuraEndpoints = {
   ethereum: {
     http: {
-      Main: 'https://mainnet.infura.io/mist',
-      Ropsten: 'https://ropsten.infura.io/mist',
-      Rinkeby: 'https://rinkeby.infura.io/mist',
-      Kovan: 'https://kovan.infura.io/mist'
+      Main: 'https://mainnet.infura.io/v3/cc44d36a18604a44927416ebadf3ba91',
+      Ropsten: 'https://ropsten.infura.io/v3/cc44d36a18604a44927416ebadf3ba91',
+      Rinkeby: 'https://rinkeby.infura.io/v3/cc44d36a18604a44927416ebadf3ba91',
+      Kovan: 'https://kovan.infura.io/v3/cc44d36a18604a44927416ebadf3ba91'
     },
     websockets: {
-      Main: 'wss://mainnet.infura.io/ws/mist',
-      Ropsten: 'wss://ropsten.infura.io/ws/mist',
-      Rinkeby: 'wss://rinkeby.infura.io/ws/mist',
-      Kovan: 'wss://kovan.infura.io/ws/mist'
+      Main: 'wss://mainnet.infura.io/ws/v3/cc44d36a18604a44927416ebadf3ba91',
+      Ropsten: 'wss://ropsten.infura.io/ws/v3/cc44d36a18604a44927416ebadf3ba91',
+      Rinkeby: 'wss://rinkeby.infura.io/ws/v3/cc44d36a18604a44927416ebadf3ba91',
+      Kovan: 'wss://kovan.infura.io/ws/v3/cc44d36a18604a44927416ebadf3ba91'
     }
   },
   ipfs: {
